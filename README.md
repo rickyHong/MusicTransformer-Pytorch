@@ -1,4 +1,4 @@
-# Music Transformer
+# Music Transformer (Basic)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asigalov61/SuperPiano/blob/master/Super_Piano_3.ipynb)
 
 Currently supports Pytorch >= 1.2.0 with Python >= 3.6  
